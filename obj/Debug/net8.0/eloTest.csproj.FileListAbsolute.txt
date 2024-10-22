@@ -1,0 +1,14 @@
+C:\repos\eloTest\bin\Debug\net8.0\eloTest.exe
+C:\repos\eloTest\bin\Debug\net8.0\eloTest.deps.json
+C:\repos\eloTest\bin\Debug\net8.0\eloTest.runtimeconfig.json
+C:\repos\eloTest\bin\Debug\net8.0\eloTest.dll
+C:\repos\eloTest\bin\Debug\net8.0\eloTest.pdb
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.AssemblyInfoInputs.cache
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.AssemblyInfo.cs
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.csproj.CoreCompileInputs.cache
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.dll
+C:\repos\eloTest\obj\Debug\net8.0\refint\eloTest.dll
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.pdb
+C:\repos\eloTest\obj\Debug\net8.0\eloTest.genruntimeconfig.cache
+C:\repos\eloTest\obj\Debug\net8.0\ref\eloTest.dll
